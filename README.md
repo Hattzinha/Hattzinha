@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🤍
 
-Meu nome é Marcelo Paludetto
+Meu nome é Valenthine Sampaio!
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,6 +8,4 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-hattzinha@gmail.com
-
-@itsme.hattzinha
+sampaiioov@gmail.com
