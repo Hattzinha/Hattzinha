@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil ♥
+### Welcome to my profile. ♥
 
 Call me Ky! I'm Brazilian and I work with a Chinese company, creating games and developing online servers.
 
