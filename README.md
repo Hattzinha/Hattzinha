@@ -1,11 +1,10 @@
-### Boas vindas ao meu perfil 🤍
+### Boas vindas ao meu perfil #pink_heart
 
-Meu nome é Valenthine Sampaio!
+Me chamem de Ky! 
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+I am currently a malware and software developer;
+Official developer and administrator of miHoYo, 2011;
+My server will be ready in no time for those looking to play with better usage and connection development!
 
-### Você pode entrar em contato comigo :mailbox
-
-sampaiioov@gmail.com
+If you have any questions, problems and/or collabs, please contact:
+devakyramvwikki@miHoYo.com
