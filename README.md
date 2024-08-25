@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil #pink_heart
+### Boas vindas ao meu perfil ♥
 
-Me chamem de Ky! 
+Call me Ky! I'm Brazilian and I work with a Chinese company, creating games and developing online servers.
 
 I am currently a malware and software developer;
 Official developer and administrator of miHoYo, 2011;
